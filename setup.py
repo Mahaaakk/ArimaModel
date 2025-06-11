@@ -9,8 +9,8 @@ def get_requirements()->List[str]:
 setup(
     name = 'ImageProc',
     version = "0.0.1",
-    author = "Kanishk",
-    author_eamil = "kanishksinghparihar64@gmail.com",
+    author = "Mahak",
+    author_eamil = "Mahakp1611@gmail.com",
     packages=find_packages(),
     install_requires = get_requirements() ,#["pymongo"]
     
